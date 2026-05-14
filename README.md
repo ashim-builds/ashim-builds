@@ -87,12 +87,12 @@ const ashim = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashim-08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashim-builds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashim-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="44%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashim-08&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashim-builds&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%" />
 
 </div>
 
@@ -101,7 +101,7 @@ const ashim = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashim-08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=ashim-builds&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
@@ -109,7 +109,7 @@ const ashim = {
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashim-08&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashim-builds&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%" />
 </div>
 
 ---
