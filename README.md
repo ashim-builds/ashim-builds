@@ -79,7 +79,7 @@ const ashim = {
 
 ## 🔭 Currently Building
 
-> **Collaborative Whiteboard** — A real-time multi-user drawing canvas powered by WebSockets with live sync, room support, and interactive tools. 🎨
+> **Nothing....
 
 ---
 
@@ -87,8 +87,8 @@ const ashim = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashim-builds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashim-builds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="44%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashimlog1-2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashimlog1-2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="44%" />
 
 <br/>
 
