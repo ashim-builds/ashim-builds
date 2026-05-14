@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile views & social badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=ashim-08&color=7c3aed&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ashim-builds&color=7c3aed&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashim-adhikari-934653379/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-22c55e?style=flat-square&logo=google-chrome&logoColor=white)](https://ashimwork.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashimwork1@gmail.com)
@@ -88,7 +88,7 @@ const ashim = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ashim-builds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashim-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="44%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashim-builds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="44%" />
 
 <br/>
 
